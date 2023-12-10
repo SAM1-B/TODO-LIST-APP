@@ -127,7 +127,7 @@ li span{
     background: #ffa8f3;
   }
 
-@media (max-width:375px){
+@media (max-width:440px){
     .form{
         background: transparent;
             display: block;
